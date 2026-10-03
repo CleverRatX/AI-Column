@@ -1,6 +1,7 @@
 # Структура:
 
 # AI-Column
+```text
 ├── firmware/
 │   ├── main.ino (полная прошивка)
 │   ├── platformio.ini
@@ -68,6 +69,7 @@
 ├── LICENSE (MIT)
 ├── CONTRIBUTING.md (как контрибьютить)
 └── .gitignore
+```
 
 # 📁 СТРУКТУРА РЕПОЗИТОРИЯ JARVIS
 
